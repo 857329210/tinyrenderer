@@ -5,4 +5,5 @@
 亟待实现：PCSS实现软阴影；PBR材质系统；天空盒
 
 ##运行效果
+
 ![image](https://github.com/857329210/tinyrenderer/blob/main/image/blinn-phong.gif)
